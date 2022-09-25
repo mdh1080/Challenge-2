@@ -1,0 +1,177 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    margin:0px;
+    margin-left: 40px;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    font-style: italic;
+}
+
+header h1 .About Megan {
+    color: #d9dcd6;
+}
+
+header nav {
+    padding-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    display: inline-block;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-right{
+    float: right;
+    margin-left: 25px;  
+    width: auto;
+    display: inline-block;
+}
+
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    width: auto;
+    display: inline-block;
+}
+
+.content {
+    width: 100%;
+    display: inline-blok;
+    margin-left: 20px;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.Megan-Stanton  {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 375px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.Portfolio {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    width: 49%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    float: left;
+    display: flex;
+}
+
+.Work2 {
+    margin-bottom: 20px;
+    padding: 50px;       
+    height: 300px;
+    width: 51%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    float: :right;
+    display: flex;
+}
+
+.Contact {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 375px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+}
+
+.Megan-Stanton img {
+    max-height:300px;
+    padding-bottom: 50px;
+}
+
+.Portfolio img {
+    max-height: 200px;
+    padding-bottom: 50px;
+}
+
+.Work2 img {
+    max-height: 200px;
+    padding-bottom: 50px;
+}
+
+.Contact img {
+    max-height: 300px;
+    padding-bottom: 50px;
+
+.Megan-Stanton h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.Portfolio h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+.Work2 h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.Contact h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
