@@ -5,9 +5,8 @@ Create a portfolio webpage to show to future employers. Webpage will show work s
 and contact information. 
 
 ## Usage
-
 Web applications appearance. 
-[Assets\Images\Picture1.jpg]
+![Web applications appearance](Assets\Images\Picture1.jpg)
 
 
 ## License
