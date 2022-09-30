@@ -6,7 +6,10 @@ and contact information.
 
 ## Usage
 Web applications appearance. 
-![Web applications appearance](Assets\Images\Picture1.jpg)
+
+![image](https://user-images.githubusercontent.com/110183347/193307139-fd439a13-a672-4476-ad11-a3c93472ad3b.png)
+
+Link to portfolio webpage https://mdh1080.github.io/Portfolio/
 
 
 ## License
