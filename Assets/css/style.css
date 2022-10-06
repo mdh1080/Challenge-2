@@ -4,6 +4,17 @@
     margin: 0;
 }
 
+.example {
+    background-image: url('../Images/Typing.png');
+}
+
+.hello {
+    background-image: url('https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2019/09/aqua-beverage-clean-1615011-1024x683.jpg');
+min-width: 400px;
+}
+.testing {
+    background-image: url("../Images/pic.jpg");
+}
 body {
     background-color: #d9dcd6;
     margin-right: 20px;
