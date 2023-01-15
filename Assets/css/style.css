@@ -1,37 +1,38 @@
-* {
+ * {
     box-sizing: border-box;
     padding: 10px;
     margin: 0;
     
 }
 
-/* div  {
+ div  {
     display: inline;
     justify-content:flex-start;
-    align-content: left; */
-    
+    align-content: left; 
+    background-color: #d9dcd6
+ }
 /* } */
-div, a {
+ /* div, a {
     height: 800px;
 width: 100%;
 margin-bottom: 25px;
-background-image: url(../images/digital-marketing-meeting.jpg);
+
 background-size: cover;
 background-position: center;
-}
-h3 {
+} */
+/* h3 { */
     /* font-display: left; */
-    color: teal;
+    /* color: teal; */
     /* justify-content: center; */
     /* text-align: justify; */
-    margin-left: 50px;
+    /* margin-left: 50px;
     text-align: left;
     font-size:40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style:italic;
-    padding-bottom: 30px;
-    
-}
+    padding-bottom: 30px; */
+    /*  */
+/* } */ */
 
 /* .example {
     background-image: url("![image](https://user-images.githubusercontent.com/110183347/199082101-d048dae7-ec2d-459f-8016-3a2dbfffd7a1.png)")
@@ -44,15 +45,14 @@ min-width: 400px;
 /* .testing {
     background-image: url("../Images/pic.jpg");
 } */
-body {
+  body {
     background-color: #d9dcd6;
-    
-
 }
 
 header {
     padding: 10px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
     background-color:  rgb(15, 158, 158);
     color: #ffffff;
     margin:0px;
@@ -69,12 +69,12 @@ header h1 .About Megan {
 }
 section {
     margin-top: 20px;
-}
+} 
 
 header nav {
     padding: 0px;
-    margin-right: 10px;
-    margin-left: 10px;
+    /* margin-right: 10px;
+    margin-left: 10px; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 35px;
     font-style: italic;
@@ -87,11 +87,11 @@ header nav ul {
 
 header nav ul li {
     display: inline-block;
-    margin-left: 20px;
-    padding: 20px;
+    /* margin-left: 20px;
+    padding: 20px; */
 }
 
-a {
+  a {
     color: #ffffff;
     text-decoration: none;
 } 
@@ -100,22 +100,22 @@ p {
     font-size: 25px;
 }
 
-.float-right{
+/* .float-right{
     float: right;
     margin-left: 25px;  
     width: auto;
    
-}
+} */
 
 
-.float-left {
+ .float-left {
     float: left;
     margin-right: 25px;
     width: auto;
    
-}
+} 
 
-/* .content {
+    .content {
     width: 100%;
     display: table;
     margin: 20px;
@@ -125,22 +125,21 @@ p {
     font-size: 30px;
     color:#d9dcd6;
     
-} */
+} 
 
 
 .Megan-Stanton  {
     margin-top: 10px;
     margin-bottom: 20px;
-    padding: 50px;
+    /* padding: 50px; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: teal;
     color: #ffffff;
     font-size: 30px;
     text-align: left;
-    
-}
+    } 
 
-#contact {
+   #contact {
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: auto;
@@ -151,16 +150,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: teal;
     color: #ffffff;
-    display: inline-block;
-    
-}
+    } 
 
 
-.Contact {
+   .Contact {
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
     width:100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: teal;
@@ -169,8 +165,7 @@ p {
     text-align: center;
 }
 
-
-.Megan-Stanton img {
+   .Megan-Stanton img {
     max-height:300px;
     padding-bottom: 50px;
     
@@ -181,7 +176,7 @@ img {
     margin-right: auto;
     max-width: 33%;
     border-radius: 25%;
-}   
+}  
 
 #Portfolio {
     max-height: 50px;
@@ -191,7 +186,7 @@ img {
     max-width: 50%;
 }
     
-.container {
+   .container {
         float:left; 
         position: relative;
         justify-content: left; 
@@ -201,7 +196,7 @@ img {
 .Contact img {
     max-height: 300px;
     padding-bottom: 50px;
-}
+} */
   
 
 .Megan-Stanton h2 {
@@ -209,26 +204,223 @@ img {
     font-size: 36px;
 }
 
-.Portfolio h2 {
+   /* .Portfolio h2 {
     margin-bottom: 20px;
     font-size: 40px;
     width: 100%;
     color: teal;
     display: inline;
-}
-
+} */
+ 
 .Contact h2 {
    font-size: 36px;
    width:100%;
-}
+} 
 
-footer {
+    footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-/* 
+    text-align: center; 
+ } 
+
 footer h2 {
     font-size: 20px;
-} */
+} 
+
+
+/* .navbar-header {
+    position:static;
+    background-color: rgb(225, 222, 222);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 100%;
+    margin-bottom: 20;
+    display: inline-flex;
+    justify-content: space-between;
+    font-family: 'Crimson Pro', serif;
+    color: white;
+    font-size: 16px;
+    /* font-weight: 800px; */
+    /* letter-spacing: 5px;
+  } 
+
+  .navbar.navbar-inverse {
+    background-color: white;
+    border-color: white;
+  }
+   */
+  /* body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 18px;
+    background-color:white;
+    font-size: 16px;
+    line-height: 1;
+    margin-top: 20px;
+  }  */
+  /* find a furry friend text*/
+  h1 {
+      font-size: 45px;
+      font-weight: 200;
+      text-align: top-left;
+      position: relative;
+      /* font-color: rgb(240, 19, 19); */
+      /* background-color: white; */
+    
+  } 
+
+  /* adoption page for cats and dogs */
+  h2 {
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 40px;
+    text-align: top-center;
+    position: relative;
+    /* font-color: rgb(240, 19, 19); */
+    /* background-color: white; */
+  }
+
+  /* #weather-header {
+    text-decoration: underline;
+    background-color: white;
+  } */
+  
+.img-fluid {
+    width: 100%;
+}
+  /* #icon-bg {
+    background-color: grey;
+    width: 50px;
+  } */
+  
+  .hide {
+    display: none;
+  }
+
+  .carousel-inner img {
+    object-fit: contain;
+    object-position: center;
+    height: 50vh;
+   
+  }
+
+  .carousel-item {
+    display: inline-block
+  }
+  
+  
+  #parkSelector {
+      margin-left: 90px;
+      padding-top: 50px;
+  }
+/*   
+  #userSelections {
+      background-color: white;
+      height: 250px;
+      padding-right: 50px;
+  }   */
+  
+  .login-card {
+    margin: 0px;
+    margin-left: 60px;
+    text-align: center;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 5px;
+    border: 3px solid var(--dark);
+    border-radius: var(--border-radius);
+    border-style: double;
+    border-width: thick;
+    background-color: rgb(225, 222, 222);;
+    color: var(--light);
+  }
+  
+  .card header {
+    color: var(--light);
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+    background-color: var(--tertiary);
+    padding: 0.625rem;
+    border-radius: calc(0.18rem - 1px) calc(0.18rem - 1px) 0 0;
+  }
+  
+  .card-body {
+    font-size: 1.4rem;
+    text-align: center;
+    font-weight: bold;
+  } */
+
+  .btn-no-style {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 100%;
+    transition: color 0.1s;
+    margin-left: 16px;
+  }
+
+
+  #donations {
+    margin: 0px;
+    text-align: center;
+    margin-left: 60px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 5px;
+    flex-direction: row;
+    color: var(--light);
+    font-size: 10px;
+  }
+
+
+  /* #contact {
+    
+    margin: 0px;
+    margin-left: 60px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 5px;
+    color: var(--light);
+  } */
+  .gallery {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-width: 33%;
+    -moz-column-width: 33%;
+    column-width: 33%;
+  }
+  
+  .gallery .pics {
+    -webkit-transition: all 350ms ease;
+    transition: all 350ms ease;
+  }
+  
+  .gallery .animation {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  
+  @media (max-width: 450px) {
+    .gallery {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+      -webkit-column-width: 100%;
+      -moz-column-width: 100%;
+      column-width: 100%;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .btn.filter {
+      padding-left: 1.1rem;
+      padding-right: 1.1rem;
+    }
+  }
+
+ 
